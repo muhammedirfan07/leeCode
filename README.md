@@ -12,7 +12,7 @@ My personal collection of LeetCode solutions in JavaScript. I solve **2 problems
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 4      |
+| 🟢 Easy    | 5      |
 | 🟡 Medium  | 1      |
 | 🔴 Hard    | 0      |
 | **Total**  | **5**  |
@@ -27,9 +27,8 @@ dsa-solutions/
 │   ├── 001-two-sum.js
 │   ├── 002-valid-parentheses.js
 │   └── 003-reverse-string.js
-│   └── 004-palindrome-number
-     
-     
+│   └── 004-palindrome-number.js
+│   └── 005-Remove_number.js    
 ├── medium/                # Medium problems
 │   └── 001-longest-substring.js
 ├── hard/                  # Hard problems (coming soon)
