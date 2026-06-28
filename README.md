@@ -12,10 +12,10 @@ My personal collection of LeetCode solutions in JavaScript. I solve **2 problems
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 3      |
+| 🟢 Easy    | 4      |
 | 🟡 Medium  | 1      |
 | 🔴 Hard    | 0      |
-| **Total**  | **4**  |
+| **Total**  | **5**  |
 
 ---
 
@@ -27,6 +27,8 @@ dsa-solutions/
 │   ├── 001-two-sum.js
 │   ├── 002-valid-parentheses.js
 │   └── 003-reverse-string.js
+│   └── 004-palindrome-number
+     
      
 ├── medium/                # Medium problems
 │   └── 001-longest-substring.js
@@ -42,7 +44,7 @@ dsa-solutions/
 
 | Topic          | Problems |
 |----------------|----------|
-| Arrays         | Two Sum, Reverse String |
+| Arrays         | Two Sum, Reverse String, |
 | Hash Map       | Two Sum, Longest Substring |
 | Stack          | Valid Parentheses |
 | Sliding Window | Longest Substring |
